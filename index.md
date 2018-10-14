@@ -14,3 +14,4 @@ Panama Papers
 
 Accidentes de tránsito en Ecuador
 <div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSct-JPNzwga-qJW-kJ2p7u4LAEwYaEO-HZXXAYvqMQhvhDs23YuyeiBF3LXHKIhigu5USiWJ5j3el1/pubchart?oid=2088897581&amp;format=interactive"></iframe></div>
+
